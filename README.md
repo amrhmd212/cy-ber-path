@@ -10,4 +10,4 @@ Voici comment fonctionne l'attribution des points :
 - Si vous atteignez la cible trop rapidement, vous perdrez un point.
 - Si vous n'atteignez pas la cible après le nombre de coups effectués, tous les autres joueurs gagneront un point.
   
-Un minimum de 2 joueurs est requis et la personne qui pense atteindre la cible avec le moins de coups possible jouera la manche. Un nombre de manches vous sera donc demandé et, durant chacune d'entre elles, la personne avec le moins de points jouera. À la fin de ces manches, le gagnant sera celui avec le plus de points.
+Un minimum de 2 joueurs est requis et la personne qui pense atteindre la cible avec le moins de coups possible jouera la manche. Un nombre de manches vous sera donc demandé et, durant chacune d'entre elles, la personne avec le moins de coups jouera. À la fin de ces manches, le gagnant sera celui avec le plus de points.
